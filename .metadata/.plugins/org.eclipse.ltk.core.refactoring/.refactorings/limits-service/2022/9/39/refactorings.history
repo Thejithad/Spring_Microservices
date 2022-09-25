@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.example.microservices.limitsservice.limitsConfigurationController.java&apos; to &apos;LimitsConfigurationController.java&apos;&#x0A;- Original project: &apos;limits-service&apos;&#x0A;- Original element: &apos;com.example.microservices.limitsservice.limitsConfigurationController.java&apos;&#x0A;- Renamed element: &apos;com.example.microservices.limitsservice.LimitsConfigurationController.java&apos;" description="Rename compilation unit &apos;limitsConfigurationController.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.microservices.limitsservice{limitsConfigurationController.java" name="LimitsConfigurationController.java" references="false" stamp="1664010884027" version="1.0"/>
+</session>
